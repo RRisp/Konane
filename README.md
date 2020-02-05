@@ -1,5 +1,5 @@
 # Konane
-AI Final Project, I don't even know when it's due but we should probably start working on it
+AI Final Project
 
 
 ## Contributing
